@@ -1,0 +1,3 @@
+The project aims to build  a fully functional lightweight http server in python in as few of a lines as possible
+
+Keep the files you want to host in the 'www' folder.
